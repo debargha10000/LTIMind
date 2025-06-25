@@ -1,0 +1,11 @@
+C:\Users\debar\Desktop\BABU\LTIMind\C#\BorderedConsole\obj\Debug\net9.0\BorderedConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\debar\Desktop\BABU\LTIMind\C#\BorderedConsole\obj\Debug\net9.0\BorderedConsole.AssemblyInfoInputs.cache
+C:\Users\debar\Desktop\BABU\LTIMind\C#\BorderedConsole\obj\Debug\net9.0\BorderedConsole.AssemblyInfo.cs
+C:\Users\debar\Desktop\BABU\LTIMind\C#\BorderedConsole\obj\Debug\net9.0\BorderedConsole.csproj.CoreCompileInputs.cache
+C:\Users\debar\Desktop\BABU\LTIMind\C#\BorderedConsole\bin\Debug\net9.0\BorderedConsole.deps.json
+C:\Users\debar\Desktop\BABU\LTIMind\C#\BorderedConsole\bin\Debug\net9.0\BorderedConsole.dll
+C:\Users\debar\Desktop\BABU\LTIMind\C#\BorderedConsole\bin\Debug\net9.0\BorderedConsole.pdb
+C:\Users\debar\Desktop\BABU\LTIMind\C#\BorderedConsole\obj\Debug\net9.0\BorderedConsole.dll
+C:\Users\debar\Desktop\BABU\LTIMind\C#\BorderedConsole\obj\Debug\net9.0\refint\BorderedConsole.dll
+C:\Users\debar\Desktop\BABU\LTIMind\C#\BorderedConsole\obj\Debug\net9.0\BorderedConsole.pdb
+C:\Users\debar\Desktop\BABU\LTIMind\C#\BorderedConsole\obj\Debug\net9.0\ref\BorderedConsole.dll

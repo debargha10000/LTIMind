@@ -1,0 +1,14 @@
+C:\Users\debar\Desktop\BABU\LTIMind\C#\DynamicPrinter\bin\Debug\net9.0\DynamicPrinter.exe
+C:\Users\debar\Desktop\BABU\LTIMind\C#\DynamicPrinter\bin\Debug\net9.0\DynamicPrinter.deps.json
+C:\Users\debar\Desktop\BABU\LTIMind\C#\DynamicPrinter\bin\Debug\net9.0\DynamicPrinter.runtimeconfig.json
+C:\Users\debar\Desktop\BABU\LTIMind\C#\DynamicPrinter\bin\Debug\net9.0\DynamicPrinter.dll
+C:\Users\debar\Desktop\BABU\LTIMind\C#\DynamicPrinter\bin\Debug\net9.0\DynamicPrinter.pdb
+C:\Users\debar\Desktop\BABU\LTIMind\C#\DynamicPrinter\obj\Debug\net9.0\DynamicPrinter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\debar\Desktop\BABU\LTIMind\C#\DynamicPrinter\obj\Debug\net9.0\DynamicPrinter.AssemblyInfoInputs.cache
+C:\Users\debar\Desktop\BABU\LTIMind\C#\DynamicPrinter\obj\Debug\net9.0\DynamicPrinter.AssemblyInfo.cs
+C:\Users\debar\Desktop\BABU\LTIMind\C#\DynamicPrinter\obj\Debug\net9.0\DynamicPrinter.csproj.CoreCompileInputs.cache
+C:\Users\debar\Desktop\BABU\LTIMind\C#\DynamicPrinter\obj\Debug\net9.0\DynamicPrinter.dll
+C:\Users\debar\Desktop\BABU\LTIMind\C#\DynamicPrinter\obj\Debug\net9.0\refint\DynamicPrinter.dll
+C:\Users\debar\Desktop\BABU\LTIMind\C#\DynamicPrinter\obj\Debug\net9.0\DynamicPrinter.pdb
+C:\Users\debar\Desktop\BABU\LTIMind\C#\DynamicPrinter\obj\Debug\net9.0\DynamicPrinter.genruntimeconfig.cache
+C:\Users\debar\Desktop\BABU\LTIMind\C#\DynamicPrinter\obj\Debug\net9.0\ref\DynamicPrinter.dll
