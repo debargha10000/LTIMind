@@ -1,12 +1,15 @@
 using Microsoft.EntityFrameworkCore;
 using MyApp.Data;
+using MyApp.Logging;
 using MyApp.Middleware;
 
 var builder = WebApplication.CreateBuilder(args);
 
 // Logging
-builder.Logging.ClearProviders();
-builder.Logging.AddConsole();
+// builder.Logging.ClearProviders();
+// builder.Logging.AddConsole();
+builder.Logging.AddProvider(new FileLoggerProvider("Logs/app.log")); // This logs to a file
+
 
 builder.Services.AddDbContext<AppDbContext>(options =>
     options.UseMySQL(builder.Configuration.GetConnectionString("DefaultConnection")));
