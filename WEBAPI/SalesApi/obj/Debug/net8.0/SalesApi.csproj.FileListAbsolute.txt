@@ -1,0 +1,8 @@
+C:\Users\debar\Desktop\BABU\LTIMind\WEBAPI\SalesApi\obj\Debug\net8.0\SalesApi.csproj.AssemblyReference.cache
+C:\Users\debar\Desktop\BABU\LTIMind\WEBAPI\SalesApi\obj\Debug\net8.0\SalesApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\debar\Desktop\BABU\LTIMind\WEBAPI\SalesApi\obj\Debug\net8.0\SalesApi.AssemblyInfoInputs.cache
+C:\Users\debar\Desktop\BABU\LTIMind\WEBAPI\SalesApi\obj\Debug\net8.0\SalesApi.AssemblyInfo.cs
+C:\Users\debar\Desktop\BABU\LTIMind\WEBAPI\SalesApi\obj\Debug\net8.0\SalesApi.csproj.CoreCompileInputs.cache
+C:\Users\debar\Desktop\BABU\LTIMind\WEBAPI\SalesApi\obj\Debug\net8.0\SalesApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\debar\Desktop\BABU\LTIMind\WEBAPI\SalesApi\obj\Debug\net8.0\SalesApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\debar\Desktop\BABU\LTIMind\WEBAPI\SalesApi\obj\Debug\net8.0\SalesApi.sourcelink.json

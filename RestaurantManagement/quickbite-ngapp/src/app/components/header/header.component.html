@@ -1,0 +1,15 @@
+<header class="header">
+  <h1 class="header__title logo" [routerLink]="['/']">QuickBite></h1>
+  <nav class="header__navbar">
+    <ul class="header__list">
+      <li class="header__item" *ngFor="let link of DISPLAY_LINKS">
+        <a
+          [routerLink]="[link.url]"
+          routerLinkActive="active"
+          class="header__link"
+          >{{ link.text }}</a
+        >
+      </li>
+    </ul>
+  </nav>
+</header>

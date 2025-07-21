@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuickBite.API", "QuickBite.API.csproj", "{BD9EAC6D-3A76-C485-ABF0-184468CE0EC9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BD9EAC6D-3A76-C485-ABF0-184468CE0EC9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BD9EAC6D-3A76-C485-ABF0-184468CE0EC9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BD9EAC6D-3A76-C485-ABF0-184468CE0EC9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BD9EAC6D-3A76-C485-ABF0-184468CE0EC9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {53482CA0-80E5-4D91-8F39-99623E3B9CBF}
+	EndGlobalSection
+EndGlobal
