@@ -1,1 +1,52 @@
-<p>register-form works!</p>
+<div class="form__screen">
+  <div class="form__container">
+    <h2 class="form__heading">Register form</h2>
+    <form class="form" (submit)="handleSubmit()">
+      <input
+        type="text"
+        name="name"
+        id="name"
+        class="form__textbox"
+        [(ngModel)]="data.name"
+        placeholder="Name"
+      />
+      <input
+        type="text"
+        name="address"
+        id="address"
+        class="form__textbox"
+        [(ngModel)]="data.address"
+        placeholder="Address"
+      />
+      <input
+        type="email"
+        name="email"
+        id="email"
+        class="form__textbox"
+        [(ngModel)]="data.email"
+        placeholder="Email"
+      />
+      <input
+        type="text"
+        name="contactNumber"
+        id="contactNumber"
+        class="form__textbox"
+        [(ngModel)]="data.contactNumber"
+        placeholder="Contact Number"
+      />
+      <input
+        type="password"
+        name="password"
+        id="password"
+        class="form__textbox"
+        [(ngModel)]="data.password"
+        placeholder="Password"
+      />
+      <input
+        type="submit"
+        value="submit"
+        class="btn btn_cta btn__cta--focus form__btn"
+      />
+    </form>
+  </div>
+</div>

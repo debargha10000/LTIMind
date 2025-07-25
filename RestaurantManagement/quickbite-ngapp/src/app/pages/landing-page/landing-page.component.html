@@ -1,1 +1,27 @@
-<p>landing-page works!</p>
+<section class="landing">
+  <section class="landing__left landing__column">
+    <h1 class="landing__title">
+      Deliciously <span class="outline">fast</span> <br />
+      always <span class="gradient">fresh</span>
+    </h1>
+    <p class="landing__text">
+      <span class="gradient">Quickbite</span> is a fast food restaurant that
+      provides delicious and fresh food to our customers. We are committed to
+      providing our customers with the best possible experience.
+    </p>
+    <div class="landing__btns">
+      <button class="landing__btn btn btn__cta btn__cta--dull">Register</button>
+      <button class="landing__btn btn btn__cta btn__cta--focus">Login</button>
+    </div>
+  </section>
+  <section class="landing__right landing__column">
+    <!-- <img src="assets/images/landing.png" alt="landing" /> -->
+    <div class="landing__images">
+      <div class="landing__image" style="--i: 1"></div>
+      <div class="landing__image" style="--i: 2"></div>
+      <div class="landing__image" style="--i: 3"></div>
+      <div class="landing__image" style="--i: 4"></div>
+    </div>
+  </section>
+  <router-outlet></router-outlet>
+</section>

@@ -1,0 +1,15 @@
+<div>
+  <img [src]="item.image" [alt]="item.name" />
+  <h2>{{ item.name }}</h2>
+  <p>{{ item.description }}</p>
+  <p>Price: {{ item.price }}</p>
+  <div *ngIf="role === 'customer'">
+    <button (click)="onMoreInfo.emit(item)">More Info</button>
+    <button (click)="onAddRemove.emit(item)">Add/Remove</button>
+  </div>
+  <div *ngIf="role === 'admin'">
+    <button (click)="onMoreInfo.emit(item)">More Info</button>
+    <button (click)="onEdit.emit(item)">Edit</button>
+    <button (click)="onRemove.emit(item)">Remove</button>
+  </div>
+</div>

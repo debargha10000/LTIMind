@@ -30,7 +30,7 @@ export class AuthService {
 
   public logoutUser = (): Observable<any> => {
     const sessionData = JSON.parse(localStorage.getItem('session') || '{}');
-    console.log(sessionData);
+    console.log('sessionData', sessionData);
     const res: Observable<any> = this.http.post(
       'http://localhost:5073/user/auth/logout',
       { refreshToken: sessionData.refreshToken },

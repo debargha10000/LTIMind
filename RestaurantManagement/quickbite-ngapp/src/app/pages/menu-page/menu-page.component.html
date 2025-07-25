@@ -1,1 +1,12 @@
-<p>menu-page works!</p>
+<div>
+  <app-menu-card
+    *ngFor="let item of menuItems"
+    [item]="item"
+    [role]="role"
+    (onMoreInfo)="showMoreInfo($event)"
+    (onAddRemove)="addRemoveItem($event)"
+    (onEdit)="editItem($event)"
+    (onRemove)="removeItem($event)"
+  ></app-menu-card>
+  <router-outlet></router-outlet>
+</div>
